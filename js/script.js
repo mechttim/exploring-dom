@@ -41,3 +41,10 @@
 // --------------------------------------------------------------------------------
 
 
+//---------------------------------------------------------------------------------
+//  Add two new "people" to the team by adding a new h3 followed by a paragraph.
+//  1. Add "Abby" to the end of the list.  In the paragraph say "Abby is the shop mouser."
+//  2. Add "Maris" AFTER "Moonflower".  In the paragraph Say "Maris was here."
+//---------------------------------------------------------------------------------
+
+
