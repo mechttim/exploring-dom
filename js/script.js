@@ -40,7 +40,7 @@ console.log(origin);
 var heads = origin.getElementsByTagName("h3");
 console.log(heads);
 var h3 = document.createElement("h3")
-for (b = 0; b < h3.length; i++) {
+for (b = 0; b > h3.length; i++) {
     var haha = createText_Node("funny");
     h3.appendchild(haha);
     allhead.appendsibling(h3);
